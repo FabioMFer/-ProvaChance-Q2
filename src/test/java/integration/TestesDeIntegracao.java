@@ -1,9 +1,7 @@
 package integration;
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
-
 import caixaEletronico.Hardware;
 import caixaEletronico.Software;
 import conta.Senha;
